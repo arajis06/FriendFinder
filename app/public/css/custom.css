@@ -1,0 +1,27 @@
+.home-card {
+    background-color: rgb(250, 226, 10);
+}
+.survey-card {
+    background-color: rgb(250, 226, 10);
+}
+
+.card-body {
+    padding: 30px;
+    margin: 30px;
+}
+
+h1 {
+    margin-top: 30px;
+    font-weight: bold
+}
+.title {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.custom-select {
+    margin-bottom: 25px;
+}
+.modal-title {
+    font-weight: bold;
+}

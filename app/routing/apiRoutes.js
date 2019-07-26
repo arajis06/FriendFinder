@@ -27,7 +27,6 @@ module.exports = function(app) {
         var newUserInput = req.body;
         var newUserScores = newUserInput.scores;
         var scoresArray = [];
-        var friendCount =  0;
         var bestMatch = 0;
 
         for (var i = 0; i < friendsList.length; i++) {
